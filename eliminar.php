@@ -62,9 +62,9 @@
 
     <div class="subida">
         <form class="formSubida" action="eliminar.php" method="post">
-            <p class="psubida">Estas seguro que deseas eliminar la cuenta:</p>
+            <p class="psubida">Pulsa el boton para eliminar la cuenta</p>
 
-            <input type="submit"  name="submit" value="Si" class="boton">
+            <input type="submit"  name="submit" value="Borrar" class="boton">
 
 
 
